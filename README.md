@@ -120,13 +120,11 @@ To get a local copy up and running, follow these steps.
 
 Install this project with:
 
-<!--
-
 ```sh
   cd budget-app
   bundle install
 ```
---->
+-
 
 ### Usage
 
